@@ -1,4 +1,4 @@
-(Make sure you have the folder “lagrange_interpolator” as your directory!)
+(Make sure you have the folder “lagrange-master” as your directory!)
 
 ——————————————————————————————————————————————————————————————————————————————————————————
 
